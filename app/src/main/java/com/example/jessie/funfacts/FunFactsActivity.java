@@ -57,7 +57,8 @@ public class FunFactsActivity extends AppCompatActivity {
         mShowFactButton.setOnClickListener(listener);
 
         // Toast.makeText(FunFactsActivity.this, "Yay our activity is created!", Toast.LENGTH_SHORT).show();
-        Log.d(TAG, "We are checking on the Log");
+        Log.d(TAG, "We are checking on the Log and checking a commit");
+
 
 
     }
